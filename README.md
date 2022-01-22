@@ -21,3 +21,7 @@ spring:
 ```
 - 防火墙添加开放端口命令   firewall-cmd --zone=public --add-port=80/tcp --permanent
 - 需要重启防火墙才能看到  重启命令  systemctl restart firewalld.service
+
+## Redis
+- 启动客户端：redis-server myconfig/redis.conf
+- 启动服务端：redis-cli -p 6379
