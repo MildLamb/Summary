@@ -25,3 +25,7 @@ spring:
 ## Redis
 - 启动客户端：redis-server myconfig/redis.conf
 - 启动服务端：redis-cli -p 6379
+
+## SpringCloud
+![image](https://user-images.githubusercontent.com/92672384/151465291-cf78316d-4ee6-4122-8b84-4e36296fd1b9.png)
+
